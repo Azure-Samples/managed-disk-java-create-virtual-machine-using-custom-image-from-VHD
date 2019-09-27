@@ -4,7 +4,7 @@ languages:
 - java
 products:
 - azure
-description: "Getting Started with Compute - Create Virtual Machine Using Custom Image From VHD - in Java"
+description: "Azure Compute sample for managing virtual machines in Java."
 urlFragment: managed-disk-java-create-virtual-machine-using-custom-image-from-VHD
 ---
 
