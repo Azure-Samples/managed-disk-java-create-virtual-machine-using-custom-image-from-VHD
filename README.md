@@ -8,7 +8,7 @@ description: "Getting Started with Compute - Create Virtual Machine Using Custom
 urlFragment: managed-disk-java-create-virtual-machine-using-custom-image-from-VHD
 ---
 
-# Getting Started with Compute - Create Virtual Machine Using Custom Image From VHD - in Java #
+# Getting Started with Compute - Create Virtual Machine Using Custom Image From VHD - in Java
 
 
   Azure Compute sample for managing virtual machines -
@@ -22,7 +22,7 @@ urlFragment: managed-disk-java-create-virtual-machine-using-custom-image-from-VH
    - Get SAS Uri to the virtual machine's managed disks.
  
 
-## Running this Sample ##
+## Running this Sample
 
 To run this sample:
 
@@ -34,7 +34,7 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 
     mvn clean compile exec:java
 
-## More information ##
+## More information
 
 [http://azure.com/java](http://azure.com/java)
 
